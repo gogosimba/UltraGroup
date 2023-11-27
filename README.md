@@ -1,2 +1,2 @@
 # UltraGroup
-A webscraper for client email requests
+A webscraper for client email requests. PoC? =)
